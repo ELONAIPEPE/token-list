@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "8NKqd3fvNrJAYs2JY87kzYUxgEBbUwEyqS12DhatKKXr",
+  "symbol": "EAIP",
+  "name": "ElonAIPePe",
+  "decimals": 9,
+  "logoURI": "https://elonaipepe.netlify.app/logo.png",
+  "tags": ["meme", "ai", "pepe"],
+  "extensions": {
+    "website": "https://elonaipepe.netlify.app",
+    "twitter": "https://x.com/elonaipepe?s=21",
+    "telegram": "https://t.me/ElonAIPEPEE"
+  }
+}

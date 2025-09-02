@@ -1,0 +1,16 @@
+{
+  "name": "ELONAIPEPE",
+  "symbol": "ELONAIPEPE",
+  "description": "The Future of Meme Coins",
+  "image": "https://raw.githubusercontent.com/ELONAIPEPE/token-list/main/assets/mainnet/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ]
+}
